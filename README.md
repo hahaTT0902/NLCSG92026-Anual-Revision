@@ -7,6 +7,8 @@ A structured annual revision repository for organizing study materials by subjec
 
 ## Overview
 
+ANYFILE STARTED WITH "G9 ... .png" are MINDMAP IMAGES!
+
 This repository is used to manage and archive revision materials for different subjects in one place.  
 It is designed to keep notes, summaries, question practice, key concepts, and other learning resources clearly separated by discipline for easier access and long-term maintenance.
 
