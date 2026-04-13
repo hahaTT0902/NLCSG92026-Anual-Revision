@@ -49,7 +49,7 @@ This repository aims to:
 ## Suggested Content for Each Subject Folder
 
 Each subject folder may include:
-
+* MINDMAP
 * class notes
 * chapter summaries
 * flashcards or memory points
