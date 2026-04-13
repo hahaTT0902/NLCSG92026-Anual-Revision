@@ -1,0 +1,27 @@
+## Key Vocabulary
+
+- Metamorphosis  
+- Demure  
+- Subversive  
+- Submissive  
+- Catholicism  
+- Prejudiced  
+- Violence  
+- Motif  
+- Catalyst  
+- Patriarchal  
+- Familial  
+- Silence  
+- Inhibit  
+- Detrimental  
+- Microcosm  
+- Rebellion  
+- Uninhibited  
+- Idolise  
+- Disloyalty  
+- Deviance  
+- Devotion  
+- Instability  
+- Corruption  
+- Religion  
+- Hyperbolised  
