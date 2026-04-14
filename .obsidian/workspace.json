@@ -11,12 +11,14 @@
             "id": "5b421bf9326eede6",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "English/Introduction structure (1).pdf"
+                "file": "Physics/Key_Notes.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Introduction structure (1)"
+              "icon": "lucide-file",
+              "title": "Key_Notes"
             }
           }
         ]
@@ -92,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English/Introduction structure (1).pdf",
+                "file": "Physics/Key_Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Introduction structure (1) 的反向链接列表"
+              "title": "Key_Notes 的反向链接列表"
             }
           },
           {
@@ -111,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "English/Introduction structure (1).pdf",
+                "file": "Physics/Key_Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Introduction structure (1) 的出链列表"
+              "title": "Key_Notes 的出链列表"
             }
           },
           {
@@ -154,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English/Introduction structure (1).pdf",
+                "file": "Physics/Key_Notes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Introduction structure (1) 的大纲"
+              "title": "Key_Notes 的大纲"
             }
           }
         ]
@@ -183,10 +185,20 @@
   },
   "active": "5b421bf9326eede6",
   "lastOpenFiles": [
-    "English/Introduction structure (2).pdf",
+    "Physics/Physics_Key_Words.pdf",
+    "Physics/flashcards.md",
+    "Physics/Key_Notes.md",
+    "Physics/G9 Physics.png",
+    "Physics/key_definitions.md",
+    "Physics/exam_tips.md",
+    "English/QuickQuotes.md",
     "English/Purple_Hibiscus_Example_Essays.md",
+    "English/Purple Hibiscus Annual Examples&Quotes.pdf",
+    "English/mindmap_summary.md",
+    "English/flashcards.md",
+    "English/exam_tips.md",
     "English/Introduction structure (1).pdf",
-    "English/Quotes.md",
-    "English/QuickQuotes.md"
+    "English/Introduction structure (2).pdf",
+    "English/Quotes.md"
   ]
 }
